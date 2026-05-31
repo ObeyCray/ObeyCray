@@ -80,8 +80,6 @@
 | 🎯 **LOS** | „10-Min Decision Sprint" — SaaS gegen Overthinking (Decision Vault, Stripe-Abos) | Next.js 15 · Drizzle · Clerk · Stripe |
 | 📅 **No-Show Stopper** | Enterprise-SaaS gegen Terminausfälle für Buchungsbetriebe (Multi-Tenant, 14 Phasen) | Next.js · Prisma · Docker |
 | 🎟️ **ComeBy** | Event-Discovery- &amp; Buchungsplattform | pnpm-Monorepo · Node · Prisma |
-| 🛒 **king-kiosk** | Vollständiges digitales Kiosk-Bestellsystem | Next.js 15 · SQLite |
-| 🏢 **Firma Hageman** | Interaktive Unternehmenswebsite mit 3D &amp; Standortkarte | React · Three.js · Leaflet |
 
 </div>
 
